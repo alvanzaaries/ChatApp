@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "120047403368",
+    "project_id": "chatapp-cfb15",
+    "storage_bucket": "chatapp-cfb15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120047403368:android:ec4a4bc10492378c4456dd",
+        "android_client_info": {
+          "package_name": "Chat.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgBS7I_AFV2eQ-I7xaa7RNyjn6Hb97rWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120047403368:android:4333ffd4347b251d4456dd",
+        "android_client_info": {
+          "package_name": "com.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgBS7I_AFV2eQ-I7xaa7RNyjn6Hb97rWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
